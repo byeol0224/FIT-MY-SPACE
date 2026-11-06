@@ -1,0 +1,12 @@
+﻿id,store,category,name,width_cm,depth_cm,height_cm,price_krw,price_note,product_url,image_url,link_type,verification_status,image_status,stock_status,source
+FIT-0001,무인양품,서랍,케이스 서랍식 가로와이드 얕은형,37,26,9,14900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/95922,,product,needs_reverification,missing,unknown,기존 index.html
+FIT-0002,무인양품,서랍,케이스 서랍식 가로와이드 깊은형,37,26,17.5,19900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/95925,,product,needs_reverification,missing,unknown,기존 index.html
+FIT-0003,이케아,철제선반,BAGGEBO 바게보 메탈 선반유닛,60,25,116,25000,기존 HTML 기재값; 최신 가격 미검증,https://www.ikea.com/kr/ko/cat/shelving-units-11465/,,category,needs_reverification,missing,unknown,기존 index.html
+FIT-0004,이케아,철제선반,HYLLIS 휠리스 선반유닛,60,27,140,30000,기존 HTML 기재값; 최신 가격 미검증,https://www.ikea.com/kr/ko/cat/storage-shelves-units-10397/,,category,needs_reverification,missing,unknown,기존 index.html
+FIT-0005,이케아,철제선반,JONAXEL 요낙셀 선반유닛,80,38,160,70000,기존 HTML 기재값; 최신 가격 미검증,https://www.ikea.com/kr/ko/cat/shelving-units-11465/,,category,needs_reverification,missing,unknown,기존 index.html
+FIT-0006,이케아,정리함,SOCKERBIT 소케르비트 수납함 화이트,19,26,15,1500,기존 HTML 기재값; 최신 가격 미검증,https://www.ikea.com/kr/ko/p/sockerbit-box-white-70316181/,https://www.ikea.com.tw/dairyfarm/tw/images/797/0979767_PE814695_S5.jpg,product,needs_reverification,url_unverified,unknown,기존 index.html
+FIT-0007,무인양품,정리함,폴리에스터 마 소프트 박스 직사각형 M,37,26,26,10900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/100161,https://product.mujikorea.co.kr/images/products/4550512403470/4550512403470_1260.jpg,product,needs_reverification,url_unverified,unknown,기존 index.html
+FIT-0008,무인양품,바구니,폴리에스터 마 소프트 박스 직사각형 하프 M,18.5,26,26,7900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/100168,,product,needs_reverification,missing,unknown,기존 index.html
+FIT-0009,무인양품,정리함,주트 직사각형 박스 S,37,26,16,2900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/100174,,product,needs_reverification,missing,unknown,기존 index.html
+FIT-0010,무인양품,서랍,아크릴 소품 수납 박스 3단,8.7,17,25.2,29900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/97497?sc=8700,,product,needs_reverification,missing,unknown,기존 index.html
+FIT-0011,무인양품,정리함,폴리에스터 마 소프트 박스 각형 덮개식 S,35,35,16,11900,기존 HTML 기재값; 최신 가격 미검증,https://mujikorea.co.kr/products/view/100159,,product,needs_reverification,missing,unknown,기존 index.html
